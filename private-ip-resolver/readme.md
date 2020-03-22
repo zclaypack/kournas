@@ -1,0 +1,2 @@
+# Kournas - IP Resolver 
+*Resolver* is a simple program which attempts to connect to a Local IP, and then based on that connection returns the users local IP address. This porgram is useful because, the socket libraries functions return the loopback address instead of the local IP of the user/client.
